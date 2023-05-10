@@ -1,2 +1,3 @@
 [![tomBoddaert's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomBoddaert&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0000)](https://github.com/tomBoddaert/)
 [![tomBoddaert's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomBoddaert&layout=compact&hide_border=true&hide=shell&langs_count=7&theme=tokyonight&bg_color=0000)](https://github.com/tomBoddaert?tab=repositories)
+[<img src="SANS%20Foundations%20-%20SANS%20Foundations%20Alumni%20-%202021-06-26.svg" width="200" height="200" alt="SANS Foundations Badge">](https://api.badgr.io/public/assertions/S3wFplPZTMmDDSXNRez1zw)
